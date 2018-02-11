@@ -16,4 +16,4 @@ Chứa các thư viện
 <br>
 **Chạy: **localhost/zend/public/index.php
 <br>
-**Cách khác: **php -S 127.0.0.1:8080 -t public public/index.php
+**Cách khác: **php -S 127.0.0.1:8080 -t public public/index.php  =>> localhost:8080
