@@ -23,4 +23,5 @@ return [
     'Zend\Validator',
     'ZendDeveloperTools',
     'Application',
+    'Started',
 ];
